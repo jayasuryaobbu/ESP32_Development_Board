@@ -32,6 +32,8 @@ fp-info-cache
 
 # MacOS Finder Files
 .DS_Store
+.plist
 
 # Shell Scripts
 *.sh
+

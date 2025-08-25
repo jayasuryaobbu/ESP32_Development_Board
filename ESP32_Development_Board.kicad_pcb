@@ -7647,7 +7647,7 @@
 		(descr "2.4 GHz Wi­-Fi and Bluetooth 5 (LE) module: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf")
 		(tags "Bluetooth WiFi Wi-Fi ESP32 WROOM Xtensa LX6")
 		(property "Reference" "U1"
-			(at -10.5 13.5 0)
+			(at -0.0325 -0.005 0)
 			(layer "F.SilkS")
 			(uuid "f723a417-644e-4709-bf7d-1968169be169")
 			(effects
